@@ -1,1 +1,1 @@
-A Simple Blog
+Nextjs Blog
